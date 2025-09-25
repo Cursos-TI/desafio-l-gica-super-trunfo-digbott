@@ -78,9 +78,9 @@ float pibpc2;
     printf("Carta 2 - Manaus (AM): %d \n", pib2);
 
     if(pib1 > pib2){
-        printf("Carta 1 e a vencedora!");
+        printf("Carta 1 e a vencedora! \n");
     }else {
-        printf("Carta 2 e a vencedora!");
+        printf("Carta 2 e a vencedora! \n");
     }
 
     //===================================================
